@@ -7,11 +7,11 @@
  <a href = "mailto: cmenezes.luis@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
 </p>
 
-> Apaixonado por tecnologia e programação, iniciei meu contato com esta área através de matérias da graduação. Atualmente, focado na programação para engenharia, me desenvolvo diariamente em projetos voltados à robótica humanoide, controle de sistemas lineares, interface gráfica de visualização e simulação de drones.
+> Apaixonado por tecnologia e programação, iniciei meu contato com esta área através de matérias da graduação. Atualmente, focado na programação para engenharia, me desenvolvo diariamente em projetos voltados à robótica humanoide, controle de sistemas e interface gráfica de visualização.
 
 🎓 Estudando **Engenharia Mecatrônica** na <a href="https://ufu.br/">Universidade Federal de Uberlãndia</a>.
 
-💼 Estagiário na <a href="https://www.aimirimsti.com.br/"/>Aimirim</a>
+💼 Estagiário na <a href="https://www.aimirimsti.com.br/"/>Aimirim</a>.
 
 🔭 Desenvolvendo, atualmente, um projeto de controle de aeropêndulo.
 

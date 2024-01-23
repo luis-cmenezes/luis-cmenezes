@@ -11,7 +11,7 @@
 
 🎓 Estudando **Engenharia Mecatrônica** na <a href="https://ufu.br/">Universidade Federal de Uberlãndia</a>.
 
-💼 Estagiário na <a href="https://www.aimirimsti.com.br/"/>AIMIRIM</a>
+💼 Estagiário na <a href="https://www.aimirimsti.com.br/"/>Aimirim</a>
 
 🔭 Desenvolvendo, atualmente, um projeto de controle de aeropêndulo.
 

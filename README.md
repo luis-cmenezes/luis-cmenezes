@@ -11,7 +11,7 @@
 
 🎓 Estudando **Engenharia Mecatrônica** na <a href="https://ufu.br/">Universidade Federal de Uberlãndia</a>.
 
-💼 Iniciação científica em **Mapeamento do Ambiente para Operação de Veículos Aéreos não Tripulados** no <a href="http://www.lasec.feelt.ufu.br"/>LASEC-UFU</a>
+💼 Estagiário na <a href="https://www.aimirimsti.com.br/"/>AIMIRIM</a>
 
 🔭 Desenvolvendo, atualmente, um projeto de controle de aeropêndulo.
 

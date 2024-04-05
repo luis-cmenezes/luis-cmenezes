@@ -28,7 +28,9 @@
 <code> <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"> </code>
 
 ## ⭐ Projetos Pessoais Favoritos
-<a href="https://github.com/Gurupreet/ComposeCookBook">
+<a href="https://github.com/luis-cmenezes/ball-beam">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luis-cmenezes&repo=ball-beam&theme=light" />
+</a>
+<a href="https://github.com/luis-cmenezes/multithreading-C-multicore-computer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luis-cmenezes&repo=multithreading-C-multicore-computer&theme=light" />
 </a>

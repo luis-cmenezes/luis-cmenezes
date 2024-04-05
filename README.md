@@ -27,13 +27,3 @@
 <code> <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/8/81/Qt_logo_neon_2022.svg" alt="Qt" name="Qt"> </code>
 <code> <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"> </code>
 
----
-## ⭐ Status do GitHub
-<a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=luis-cmenezes&show_icons=true&theme=radical&line_height=20" alt="**Luis Costa** github stats"/>
-</a>
-
-<a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luis-cmenezes&theme=radical" />
-</a>
-

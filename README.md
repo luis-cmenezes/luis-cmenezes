@@ -1,6 +1,6 @@
 
 <hr>
-<h1 align="center">💜 Olá, meu nome é <strong>Luis Costa!</strong></bold></h1>
+<h1 align="center">Olá, meu nome é <strong>Luis Costa!</strong></bold></h1>
 <h3 align="center">Estudante de Engenharia Mecatrônica</h3>
 <p align="center">
 <a href="https://www.instagram.com/luis_cmenezes/"target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="aksia" height="30" width="40" /></a>
@@ -11,9 +11,9 @@
 
 🎓 Estudando **Engenharia Mecatrônica** na <a href="https://ufu.br/">Universidade Federal de Uberlãndia</a>.
 
-💼 Estagiário na <a href="https://www.aimirimsti.com.br/"/>Aimirim</a>.
+💼 Estagiário na <a href="https://dt-labs.ai/"/>dtLabs</a>.
 
-🔭 Desenvolvendo, atualmente, um projeto de controle de aeropêndulo.
+🔭 Desenvolvendo, atualmente, um projeto de controle de um sistema barra-bola.
 
 💬 Aberto à colaborar em tecnologias open-source!
 

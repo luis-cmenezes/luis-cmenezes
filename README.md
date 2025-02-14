@@ -3,17 +3,16 @@
 <h1 align="center">Olá, meu nome é <strong>Luis Costa!</strong></bold></h1>
 <h3 align="center">Estudante de Engenharia Mecatrônica</h3>
 <p align="center">
-<a href="https://www.instagram.com/luis_cmenezes/"target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="aksia" height="30" width="40" /></a>
  <a href = "mailto: cmenezes.luis@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
 </p>
 
-> Apaixonado por tecnologia e programação, iniciei meu contato com esta área através de matérias da graduação. Atualmente, focado na programação para engenharia, me desenvolvo diariamente em projetos voltados à robótica humanoide, controle de sistemas e interface gráfica de visualização.
+> Apaixonado por tecnologia e programação, iniciei meu contato com esta área através de matérias da graduação. Atualmente, focado na programação para engenharia, me desenvolvo diariamente em projetos voltados à robótica, visão computacional e inteligência artificial.
 
 🎓 Estudando **Engenharia Mecatrônica** na <a href="https://ufu.br/">Universidade Federal de Uberlãndia</a>.
 
 💼 Estagiário na <a href="https://dt-labs.ai/"/>dtLabs</a>.
 
-🔭 Desenvolvendo, atualmente, um projeto de controle de um sistema barra-bola.
+🔭 Desenvolvendo, atualmente, um projeto de agente inteligente para interação com jogos.
 
 💬 Aberto à colaborar em tecnologias open-source!
 
@@ -26,6 +25,8 @@
 <code> <img height="32" src="https://cyberbotics.com/assets/images/webots.png" alt="Webots" name="Webots"> </code>
 <code> <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/8/81/Qt_logo_neon_2022.svg" alt="Qt" name="Qt"> </code>
 <code> <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"> </code>
+<code> <img height="32" src="https://pic.vsixhub.com/e1/06/ultralytics.ultralytics-snippets-logo.webp"> </code>
+
 
 ## ⭐ Projetos Pessoais Favoritos
 <a href="https://github.com/luis-cmenezes/ball-beam">
